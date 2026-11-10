@@ -10,8 +10,8 @@ Espacio de entrega de los talleres prácticos desarrollados para la asignatura d
 Trabajo colaborativo realizado en pareja para el desarrollo y documentación del Taller 1.
 
 * **Integrantes:** 
-  - Jair Telpiz
-  - Marlyn Nathalia Mora
+  - Hernan Jair Telpiz Cuaran
+  - Marlyn Nathalia Mora Riascos
 
 ---
 
