@@ -22,3 +22,6 @@ Espacio de entregas de actividades del curso de **Teoría de Aprendizaje de Máq
 📌 Toda la información y código fuente están disponibles directamente en el siguiente enlace:
 
 👉 **[Ver Clasificador MNIST en GitHub](https://github.com/JairT20/TAM-2026-2/tree/main/actividades/clasificador_mnist)**
+
+Visualizacion Streamlit:
+👉https://jairt20-tam-2026-2-streamlit-app-82vlb5.streamlit.app/
