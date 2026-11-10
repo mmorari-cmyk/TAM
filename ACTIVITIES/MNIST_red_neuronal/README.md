@@ -8,8 +8,8 @@ Espacio de entregas de actividades del curso de **Teoría de Aprendizaje de Máq
 ## 📝 Actividad 1: Clasificador MNIST
 
 - **Integrantes:**
-  - Jair Telpiz
-  - Marlyn Nathalia Mora
+  - Hernan Jair Telpiz Cuaran
+  - Marlyn Nathalia Mora Riascos
 
 - **Archivos incluidos:**
   - `app_streamlit.py`: Código de la interfaz web en Streamlit.
